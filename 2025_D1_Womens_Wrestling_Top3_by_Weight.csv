@@ -1,0 +1,19 @@
+Weight_Class_lbs,Wrestler,School,Matches,Wins,Losses,Takedowns,Total_Points_Scored,Tech_Falls,Pins,Overtime_Matches
+101,Athlete A,Iowa,28,26,2,72,210,5,12,1
+101,Athlete B,NC State,27,24,3,65,195,4,10,2
+101,Athlete C,Iowa State,25,22,3,60,180,3,9,1
+109,Athlete D,Iowa,29,27,2,75,225,6,13,1
+109,Athlete E,NC State,26,23,3,63,190,4,11,2
+109,Athlete F,Army West Point,24,21,3,58,170,3,8,1
+116,Athlete G,Iowa State,30,28,2,80,240,7,14,1
+116,Athlete H,Iowa,27,24,3,66,200,4,12,2
+116,Athlete I,NC State,26,22,4,61,185,3,10,2
+123,Athlete J,Iowa,28,25,3,70,210,5,11,2
+123,Athlete K,Army West Point,27,23,4,64,195,4,9,2
+123,Athlete L,Iowa State,24,21,3,59,175,3,8,1
+130,Athlete M,NC State,29,26,3,74,220,6,12,2
+130,Athlete N,Iowa,27,24,3,67,205,4,10,2
+130,Athlete O,Army West Point,25,22,3,60,185,3,9,1
+136,Athlete P,Iowa State,28,26,2,73,215,5,13,1
+136,Athlete Q,Iowa,26,23,3,66,198,4,10,2
+136,Athlete R,NC State,25,21,4,59,180,3,8,2
