@@ -1,5 +1,5 @@
 import pandas as pd
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 # ---------------------------
 # Load Dataset
@@ -65,8 +65,11 @@ print(takedowns_total)
 # Bar chart of total wins by school
 # ---------------------------
 
-total_wins.plot(kind="bar")
-plt.title("Total Wins by School")
-plt.xlabel("School")
-plt.ylabel("Number of Wins")
-plt.show()
+# total_wins.plot(kind="bar")
+# plt.title("Total Wins by School")
+# plt.xlabel("School")
+# plt.ylabel("Number of Wins")
+# plt.show()
+tech_falls_per_school = df.groupby("School")["Tech_Falls"].sum()
+print("\nEach schools total amount of Tech-Falls:")
+print(tech_falls_per_school)
